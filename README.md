@@ -1,8 +1,5 @@
 ## Hi there, I'm Mohammed Farhan 👋
 
-<!--
-**f4rhan15/f4rhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m a Robotics and AI Engineering student based in Bengaluru, India.
 
 I’m curious about how machines work, how technology evolves, and how ideas turn into something real.
